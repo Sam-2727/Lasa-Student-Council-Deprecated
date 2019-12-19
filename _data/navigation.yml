@@ -1,15 +1,15 @@
 # main links
 main:
   - title: "About"
-    url: 
+    url: /About/
 docs:
   - title: Class Pages Updated
   children:
     - title: "Freshmen"
-      url: /Class_Pages/Freshmen/index.html
+      url: /Class_Pages/Freshmen/
     - title: "Sophomores"
-      url: /Class_Pages/Sophomores/index.html
+      url: /Class_Pages/Sophomores/
     - title: "Juniors"
-      url: /Class_Pages/Juniors/index.html
+      url: /Class_Pages/Juniors/
     - title: "Seniors"
-      url: /Class_Pages/Seniors/index.html
+      url: /Class_Pages/Seniors/
