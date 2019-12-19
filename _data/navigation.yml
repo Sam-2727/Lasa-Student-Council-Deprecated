@@ -2,6 +2,8 @@
 main:
   - title: "About Student Council"
     url: /About/
+  - title: "Current Officers"
+    url: /Current-Officers/
 sidebar-sample:
   - title: "Parent Page A"
     children:
