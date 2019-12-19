@@ -1,11 +1,9 @@
 ## LASA Student Council Website
 Created in December, 2019. If you want to contribute to the website just tell me (Sam Christian) and I'll add you as a contributer. Or, you could be antisocial and just go ahead and create a pull request or raise an Issue.
 
-## License
+## Required licenses and acknowledgments:
 
 The MIT License (MIT)
-
-Copyright (c) 2013-2019 Michael Rose and contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
