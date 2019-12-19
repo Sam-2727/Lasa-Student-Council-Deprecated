@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: 
 docs:
-  - title: "Class Pages"
+  - title: "Class Pages Updated"
   children:
     - title: "Freshmen"
       url: /Class_Pages/Freshmen/index.html
