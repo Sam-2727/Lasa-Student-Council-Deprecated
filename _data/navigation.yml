@@ -45,7 +45,7 @@ sidebar-sample:
         url: /
         
 docs:
-  - title: Class Pages Updated
+  - title: Class Pages
     children:
       - title: "Freshmen"
         url: /Class_Pages/Freshmen/
