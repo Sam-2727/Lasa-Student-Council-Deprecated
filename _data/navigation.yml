@@ -1,8 +1,8 @@
 # main links
 main:
-  - about:
+  - about: 
 docs:
-  - title: "Class Pages:
+  - title: "Class Pages"
   children:
     - title: "Freshmen"
     - title: "Sophomores"
