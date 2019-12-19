@@ -2,6 +2,16 @@
 main:
   - title: "About Student Council"
     url: /About/
+  - title: Class Pages Updated
+    children:
+      - title: "Freshmen"
+        url: /Class_Pages/Freshmen/
+      - title: "Sophomores"
+        url: /Class_Pages/Sophomores/
+      - title: "Juniors"
+        url: /Class_Pages/Juniors/
+      - title: "Seniors"
+        url: /Class_Pages/Seniors/
 sidebar-sample:
   - title: "Parent Page A"
     children:
