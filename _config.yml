@@ -262,4 +262,4 @@ defaults:
         type: docs
       values:
         sidebar:
-        nav: "docs"
+        nav: docs
