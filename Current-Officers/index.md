@@ -7,17 +7,19 @@ title: Current Officers
 ## Seniors
 ### President: Sofia Moore
 <img src="/assets/images/sofia.jpg" alt="drawing" width="200"/>
+{: .text-center}
 Sofia wants to be a cowgirl when she grows up.
-{: .text-right}
 ### Vice-President: Avik Ahuja
 <img src="/assets/images/avik.jpg" alt="drawing" width="200"/>
+{: .text-center}
 Hey all! My name is Avik Ahuja and I'm super excited to be serving as your 2019-2020 senior class vice president. Throughout this year, I'm hoping that I can help organize senior class traditions and carry out my vice presidential duties In a way that helps bring our class together and makes this last year of high school the most fun and memorable of our lives. Please let me know if I can do anything to make your senior year better. I am always open to comments, Questions or concerns. I love the class of 2020 and hope that everyone has a very successful senior year!
-{: .text-right}
 ### Treasurer: Maxi Ledesma
 <img src="/assets/images/Maxi.jpg" alt="drawing" width="200"/>
+{: .text-center}
 I’m just a city boy, born and raised in South Austin. You can catch me hanging with the boys and having long walks on the beach. If I could, I would wear Hawaiian shirts everyday.
 ### Student Representative: Sophia Blaha
 <img src="/assets/images/sophia.jpg" alt="drawing" width="200"/>
+{: .text-center}
 Blaha plays karate and guitar in her free
 time.
 ## Juniors
