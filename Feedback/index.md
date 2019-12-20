@@ -5,6 +5,7 @@ header:
   overlay_image: /assets/images/background_img.png
   caption: " "
 ---
+
 # Feedback
 Hello, and thank you for providing feedback to student council! You can also provide specific feedback by [emailing one of us](/Current-Officers/). If you would prefer to remain anonymous, you may fill out the form below (note that feedback will be reviewed by the entire student council). Thank you!
 
