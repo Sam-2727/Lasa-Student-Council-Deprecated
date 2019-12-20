@@ -1,5 +1,5 @@
 ## LASA Student Council Website
-Created in December, 2019. If you want to contribute to the website just tell me (Sam Christian) and I'll add you as a contributer. Or, you could be antisocial and just go ahead and create a pull request or raise an issue.
+Created in December, 2019. If you want to contribute to the website just tell me (Sam Christian) and I'll add you as a contributor. Or, you could be antisocial and just go ahead and create a pull request or raise an issue.
 
 ## Required licenses and acknowledgments:
 
