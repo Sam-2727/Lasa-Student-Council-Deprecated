@@ -6,6 +6,7 @@ title: Current Officers
 ## Seniors
 ### President: Sofia Moore
 <img src="/assets/images/sofia.jpg" alt="drawing" width="200"/>
+{: .text-right}
 Sofia wants to be a cowgirl when she grows up.
 ### Vice-President: Avik Ahuja
 <img src="/assets/images/avik.jpg" alt="drawing" width="200"/>
