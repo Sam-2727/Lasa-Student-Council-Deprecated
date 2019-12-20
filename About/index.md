@@ -6,7 +6,7 @@ header:
   caption: " "
 ---
 
-
+Test
 ## Activities throughout the year
 Some Activities that Student Council is in charge of planning are:
 * Homecoming
