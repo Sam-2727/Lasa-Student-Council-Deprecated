@@ -5,6 +5,13 @@ title: Current Officers
 ---
 
 ## Seniors
+<figure class="fourth">
+	<img src="/assets/images/sofia.jpg">
+	<img src="/assets/images/Maxi.jpg">
+	<img src="/assets/images/avik.jpg">
+  <img src="/assets/images/sophia.jpg">
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
 ### President: Sofia Moore
 <img src="/assets/images/sofia.jpg" alt="drawing" width="200"/>
 Sofia wants to be a cowgirl when she grows up.
