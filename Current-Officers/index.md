@@ -11,6 +11,7 @@ title: Current Officers
 Sofia wants to be a cowgirl when she grows up.
 ### Vice-President: Avik Ahuja
 <img src="/assets/images/avik.jpg" alt="drawing" width="200"/>
+{: .text-right}
 Hey all! My name is Avik Ahuja and I'm super excited to be serving as your 2019-2020 senior class vice president. Throughout this year, I'm hoping that I can help organize senior class traditions and carry out my vice presidential duties In a way that helps bring our class together and makes this last year of high school the most fun and memorable of our lives. Please let me know if I can do anything to make your senior year better. I am always open to comments, Questions or concerns. I love the class of 2020 and hope that everyone has a very successful senior year!
 ### Treasurer: Maxi Ledesma
 <img src="/assets/images/Maxi.jpg" alt="drawing" width="200"/>
