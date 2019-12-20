@@ -1,5 +1,6 @@
 ---
 layout: splash
+toc: true
 title: Current Officers
 ---
 
