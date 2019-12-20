@@ -5,4 +5,4 @@ title: Current Officers
 
 ## Seniors
 ### President: Sofia Moore
-![Test](/assets/images/sofia.jpg)
+<img src="/assets/images/sofia.jpg" alt="drawing" width="200"/>
