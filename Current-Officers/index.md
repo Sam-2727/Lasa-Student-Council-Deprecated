@@ -7,7 +7,6 @@ title: Current Officers
 ### President: Sofia Moore
 <img src="/assets/images/sofia.jpg" alt="drawing" width="200"/>
 Sofia wants to be a cowgirl when she grows up.
-
 ### Vice-President: Avik Ahuja
 <img src="/assets/images/avik.jpg" alt="drawing" width="200"/>
 Hey all! My name is Avik Ahuja and I'm super excited to be serving as your 2019-2020 senior class vice president. Throughout this year, I'm hoping that I can help organize senior class traditions and carry out my vice presidential duties In a way that helps bring our class together and makes this last year of high school the most fun and memorable of our lives. Please let me know if I can do anything to make your senior year better. I am always open to comments, Questions or concerns. I love the class of 2020 and hope that everyone has a very successful senior year!
@@ -52,7 +51,7 @@ Sam has 2 adorable and incredible dogs named Winston and Rosie. In his free time
 <img src="/assets/images/Keerthanyaa.jpeg" alt="drawing" width="200"/>
 My name is Keerthanyaa Arun and I'm the freshman vice president. Outside of school, I like to swim, play tennis, and spend time with my friends and family.
 ### Treasurer: Nina Prasad
-<img src="/assets/images/nina.jpg" alt="drawing" width="200"/>
+<img src="/assets/images/Nina.jpg" alt="drawing" width="200"/>
 Nina Prasad is the freshman student council treasurer. She is an a advocate for the class of 2023 and enjoys volunteering for her community. Nina is a very musical person and has played piano for many years. In her free time, she enjoys reading, baking, and doing arts and crafts projects. Nina really likes dogs and her favorite show is Friends.
 ### Student Representative: Julia Ding
 <img src="/assets/images/Julia.jpg" alt="drawing" width="200"/>
