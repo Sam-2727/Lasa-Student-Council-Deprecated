@@ -1,6 +1,6 @@
 ---
 layout: single
-classes: wide
+classes: splash
 title: About Student Council
 ---
 
