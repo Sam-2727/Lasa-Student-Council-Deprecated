@@ -6,6 +6,8 @@ main:
     url: /Current-Officers/
   - title: "Remind Feeds"
     url: /Remind-Feeds/
+  - title: "Announcements"
+    url: /News/
         
 docs:
   - title: Class Pages
