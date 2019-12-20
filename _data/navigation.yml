@@ -4,8 +4,8 @@ main:
     url: /About/
   - title: "Current Officers"
     url: /Current-Officers/
-  - title: "Social Media"
-    url: /Social-Media-Feeds
+  - title: "Remind Feeds"
+    url: /Remind-Feeds/
         
 docs:
   - title: Class Pages
