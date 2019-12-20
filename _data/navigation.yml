@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "About Student Council"
+  - title: "About Stuco"
     url: /About/
   - title: "Current Officers"
     url: /Current-Officers/
@@ -8,6 +8,8 @@ main:
     url: /Remind-Feeds/
   - title: "Announcements"
     url: /News/
+  - title: "Feedback"
+    url: /Feedback/
         
 docs:
   - title: Class Pages
