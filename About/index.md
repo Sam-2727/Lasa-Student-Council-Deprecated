@@ -2,7 +2,9 @@
 layout: single
 classes: wide
 ---
-# Activities throughout the year #
+
+
+# Activities throughout the year
 Some Activities that Student Council is in charge of planning are:
 * Homecoming
 * Prom
