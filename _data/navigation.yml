@@ -26,9 +26,9 @@ docs:
         url: /News/
       - title: "Remind"
         url: /Remind-Feeds/
-  - title: Information1
+  - title: NewStuff
     children: 
       - title: "About"
         url: /About/
-      - title: "Remind"
+      - title: "Officers"
         url: /Current-Officers/
