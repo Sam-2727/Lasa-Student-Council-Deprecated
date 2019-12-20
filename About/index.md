@@ -1,3 +1,7 @@
+---
+layout: single
+classes: wide
+---
 # Purpose #
 The Student Council is LASA’s student government organization, made up of four elected officers from each class. Officers serve as the community and social chairs of the school– acting as class organizers, student advocates, morale officers, and major project planners among many other dutes and responsibilities.
 # Activities throughout the year #
@@ -20,4 +24,6 @@ Some Activities that Student Council is in charge of planning are:
 * Fulfilling any requests of administrators
 * Taking-- and implementing-- suggestions from the student body
 
-The activities that student council does, however, vary widely from year to year based off of the decisions
+The activities that student council does, however, vary widely from year to year based off of the decisions of the members of the student council, as well as the student body in bringing potential activities to the council.
+
+# Specifics #
