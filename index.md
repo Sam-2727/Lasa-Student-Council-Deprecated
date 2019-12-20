@@ -7,7 +7,7 @@ sidebar:
 header:
   overlay_image: /assets/images/background_img.png
 ---
-# 
-# Purpose
+
+# Purpose Test
 
 ### The Student Council is LASA’s student government organization, made up of four elected officers from each class. Officers serve as the community and social chairs of the school– acting as class organizers, student advocates, morale officers, and major project planners among many other dutes and responsibilities.
