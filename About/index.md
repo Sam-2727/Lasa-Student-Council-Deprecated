@@ -1,6 +1,9 @@
 ---
 layout: splash
-title: About Student Council
+title: " "
+header:
+  overlay_image: /assets/images/background_img.png
+  caption: " "
 ---
 
 
