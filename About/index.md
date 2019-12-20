@@ -27,4 +27,4 @@ Some Activities that Student Council is in charge of planning are:
 
 The activities that student council does, however, vary widely from year to year based off of the decisions of the members of the student council, as well as the student body in bringing potential activities to the council.
 
-# Specifics #
+# Specifics
