@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-
+title: about student council
 ---
 
 
