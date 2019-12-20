@@ -3,6 +3,8 @@ layout: splash
 toc: true
 title: Current Officers
 ---
+
+# Current Officers
 Elections for student council officers are held at the end of every school year.
 ## Seniors
 ### President: Sofia Moore
