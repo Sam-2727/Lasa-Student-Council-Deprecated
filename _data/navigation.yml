@@ -20,3 +20,9 @@ docs:
         url: /Class_Pages/Juniors/
       - title: "Seniors"
         url: /Class_Pages/Seniors/
+  - title: Information
+    children: 
+      - title: "Announcements"
+        url: /News/
+      - title: "Remind"
+        url: /Remind-Feeds/
