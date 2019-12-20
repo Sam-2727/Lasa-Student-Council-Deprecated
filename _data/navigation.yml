@@ -26,9 +26,9 @@ docs:
         url: /News/
       - title: "Remind"
         url: /Remind-Feeds/
- - title: About Stuco
-   children:
+  - title: Information1
+    children: 
       - title: "About"
         url: /About/
-      - title: "Current Officers"
+      - title: "Remind"
         url: /Current-Officers/
