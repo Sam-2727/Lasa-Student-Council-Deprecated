@@ -34,5 +34,9 @@ docs:
         url: /About/
       - title: "Current Officers"
         url: /Current-Officers/
-  - title: "Attribution"
-    url: /Attribution/
+  - title: "Other"
+    children:
+      - title: "Attribution"
+        url: /Attribution/
+      - title: "Feedback"
+        url: /Feedback/
