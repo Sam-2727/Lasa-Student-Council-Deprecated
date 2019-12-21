@@ -19,7 +19,7 @@ Some Activities that Student Council is in charge of planning are:
 * Organizing class socials (where food is handed out to the respective classes)
 * Maintaining a class-wide communication system with at least 2/3rds of the class (typically through a remind system)
 * Keeping their respective classes informed of various activities
-* Raising money through fundraising events for other major events that lose money
+* Raising money through miscellaneous fundraising events
 * Creating and selling class t-shirts
 * Attending CAC meetings once a month
 * Running student council elections
