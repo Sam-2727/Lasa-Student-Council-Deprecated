@@ -16,7 +16,7 @@ Join at <https://quizlet.com/join/evNS38wEm>
 ## Remind
 As you can see from the live feed at <http://lasastuco.org/Remind-Feeds/#juniors>, remind is an important communication system that we use to keep you updated on the latest class events that are NOT necessarily related to student council. These can include reminders of assembly, FIT vs. homeroom, and even announcements from teachers (i.e. Mr. Croston).
 
-You can join by texting **@lasa2021 to 81010** or simply join on the remind app using that code.
+You can join by texting **@lasa2021 to 81010** or simply join on the remind app using the aforementioned code.
 
 ## Instagram
-If you have instagram, this is another great way to stay connected to all the various events going on at the school, particularly those that pertain to our grade-level. So subscribe **@lasa2021**
+If you have instagram, this is another great way to stay connected to all the various events going on at the school, particularly those that pertain to our grade-level. So follow **@lasa2021**
