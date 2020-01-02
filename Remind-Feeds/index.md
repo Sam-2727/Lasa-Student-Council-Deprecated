@@ -8,4 +8,4 @@ Coming soon!
 ## Sophomores
 Coming soon!
 ## Freshmen
-Coming soon!
+<script src="https://widgets.remind.com/iframe.js?token=d28573c0d63101371f920242ac110004&height=500&join=true"></script>
