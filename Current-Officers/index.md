@@ -39,7 +39,7 @@ Contact: <sophia.blaha@gmail.com>
 {: .text-center}
 I'm excited to be the Junior Student Council President this year! Outside of student council, I participate in Science Olympiads, as well as Astronomy and Physics Olympiad, and I also play the cello.
 
-Contact: <samchristian.2727@gmail.com>
+Contact: <samchristianemail@gmail.com>
 ### Vice-President: Isabelle Saquing
 <img src="/assets/images/isabelle.jpg" alt="drawing" width="200"/>
 {: .text-center}
