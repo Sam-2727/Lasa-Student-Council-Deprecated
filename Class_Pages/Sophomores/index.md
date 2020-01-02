@@ -10,7 +10,7 @@ Hi Sophomores! Thank you for visiting our page. Here are some ways you can get n
 
 ## Quizlet:
 Feel free to add sets and use existing sets to help you study. 
-Join at https://quizlet.com/join/zsS6AKbps
+Join at <https://quizlet.com/join/zsS6AKbps>
 
 ## Remind:
 Join the remind for reminders about socials, dances, and other Stuco sponsored events. There will also be reminders for events outside of Stuco, like shows for theater or assemblies and homeroom. 
