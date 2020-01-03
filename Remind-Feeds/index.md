@@ -1,6 +1,8 @@
 ---
 layout: splash
 ---
+# Remind Feeds
+Subscribe to the remind feed for your class to recieve immediate updates on events pertaining to the entire school and those specific to your grade.
 ## Seniors
 Coming soon!
 ## Juniors
