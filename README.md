@@ -3,7 +3,7 @@ Created in December, 2019. If you want to contribute to the website just tell me
 
 ## Required licenses and acknowledgments:
 
-Banner photo by Griffin Davis, from <lasa2019.com>
+Banner photo by Griffin Davis, from lasa2019.com
 
 The MIT License (MIT) (for this repository AND minimal mistkaes, which this is based off of)
 
