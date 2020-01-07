@@ -10,7 +10,7 @@ header:
 # Remind Feeds
 Subscribe to the remind feed for your class to recieve immediate updates on events pertaining to the entire school and those specific to your grade.
 ## Seniors
-Coming soon!
+<script src="https://widgets.remind.com/iframe.js?token=729d38d06f490135020d0242ac110002&height=500&join=true"></script
 ## Juniors
 <script src="https://widgets.remind.com/iframe.js?token=5f5b59607e720137bec20242ac110005&height=500&join=true"></script>
 ## Sophomores
