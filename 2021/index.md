@@ -2,9 +2,9 @@
 <html>
    <head>
       <title>HTML Meta Tag</title>
-      <meta http-equiv = "refresh" content = "2; url = https://www.lasastuco.org/Class_Pages/Juniors/" />
+      <meta http-equiv = "refresh" content = "2; url = http://lasastuco.org/Class_Pages/Juniors/" />
    </head>
    <body>
-      <p>Hello HTML5!</p>
+      <p></p>
    </body>
 </html>
