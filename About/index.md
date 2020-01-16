@@ -7,7 +7,7 @@ sidebar:
 header:
   overlay_image: /assets/images/background_img.png
   caption: " "
-excerpt: "what is student council?"
+excerpt: "But what *is* student council?"
 ---
 
 ## Activities throughout the year
