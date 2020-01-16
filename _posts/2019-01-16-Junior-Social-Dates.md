@@ -8,7 +8,7 @@ sidebar:
   nav: docs
 header:
   overlay_image: /assets/images/background_img.png
-  caption: "Junior Socials!"
+  caption: " "
 excerpt: "Dates and Information"
 categories:
   - 2021
