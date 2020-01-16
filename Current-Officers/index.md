@@ -1,7 +1,7 @@
 ---
 layout: single
 toc: true
-toc_label: "Index"
+toc_label: "Table of Contents"
 title: "Current Officers"
 header:
   overlay_image: /assets/images/background_img.png
