@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "About us"
+toc: true
 sidebar:
   title: "Information"
   nav: docs
