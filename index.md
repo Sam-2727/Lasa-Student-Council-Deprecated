@@ -7,12 +7,11 @@ sidebar:
 header:
   overlay_image: /assets/images/background_img.png
   caption: " "
-title: " "
+title: "LASA Student Council"
   
   
 ---
 
-# LASA Student Council
 
 ## Purpose
 
