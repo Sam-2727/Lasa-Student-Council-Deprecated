@@ -6,9 +6,8 @@ header:
   caption: " "
 categories:
   - Maintainance
- 
+ excerpt: "Welcome"
 ---
-excerpt: "Welcome"
 # Welcome to the new LASA student council website!
 Here you will find all the up-to-date information on student council
 test
