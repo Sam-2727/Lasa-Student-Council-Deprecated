@@ -2,7 +2,7 @@
 layout: splash
 toc: true
 toc_label: "Index"
-title: "Current Officers"
+title: " "
 header:
   overlay_image: /assets/images/background_img.png
   caption: " "
