@@ -2,6 +2,9 @@
 title: "New Website"
 last_modified_at: 2019-12-20
 layout: splash
+header:
+  overlay_image: /assets/images/background_img.png
+  caption: " "
 categories:
   - Maintainance
  
