@@ -1,6 +1,9 @@
 ---
 layout: single
 title: " "
+sidebar:
+  title: "Information"
+  nav: docs
 header:
   overlay_image: /assets/images/background_img.png
   caption: " "
