@@ -6,11 +6,11 @@ sidebar:
   nav: docs
 header:
   overlay_image: /assets/images/background_img.png
-  caption: "Welcome to the LASA student council website!"
 title: "LASA Student Council"
   
   
 ---
+Excerpt: "Here you will find all your student council related information"
 
 ## Purpose
 
