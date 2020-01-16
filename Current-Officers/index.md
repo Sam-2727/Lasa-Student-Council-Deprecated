@@ -1,4 +1,5 @@
 ---
+layout: splash
 toc: true
 toc_label: "Index"
 title: " "
