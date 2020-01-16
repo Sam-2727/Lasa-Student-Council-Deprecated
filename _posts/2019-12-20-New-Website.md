@@ -6,7 +6,7 @@ header:
   caption: " "
 categories:
   - Maintainance
- excerpt: "Welcome"
+excerpt: "Welcome"
 ---
 
 # Welcome to the new LASA student council website!
