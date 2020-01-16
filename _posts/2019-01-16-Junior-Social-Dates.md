@@ -19,6 +19,7 @@ Hey Juniors! We've decided the dates for our junior socials this semester (and f
 
 ## Dates
 The dates are **February 7th** and **April 3rd**.
+
 ## Important information
 - All socials will be during lunch at the end of the math hallway
 - ONLY FOR JUNIORS
