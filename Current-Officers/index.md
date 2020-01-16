@@ -3,6 +3,9 @@ layout: single
 toc: true
 toc_label: "Table of Contents"
 title: "Current Officers"
+sidebar:
+  title: "Information"
+  nav: docs
 header:
   overlay_image: /assets/images/background_img.png
   caption: " "
