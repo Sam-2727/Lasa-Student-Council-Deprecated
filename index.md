@@ -7,10 +7,9 @@ sidebar:
 header:
   overlay_image: /assets/images/background_img.png
 title: "LASA Student Council"
-  
+excerpt: "Here you will find all your student council related information"  
   
 ---
-Excerpt: "Here you will find all your student council related information"
 
 ## Purpose
 
