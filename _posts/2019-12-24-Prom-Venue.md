@@ -1,5 +1,4 @@
 ---
-title: "Prom date and Venue"
 last_modified_at: 2019-12-24
 layout: splash
 header:
