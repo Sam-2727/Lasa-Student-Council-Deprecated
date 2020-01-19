@@ -3,7 +3,7 @@
 layout: single
 toc: false
 toc_label: "Table of Contents"
-title: "Mr. Ephriam is retiring!!!"
+title: "Mr. Ephriam is retiring"
 sidebar:
   title: "Information"
   nav: docs
