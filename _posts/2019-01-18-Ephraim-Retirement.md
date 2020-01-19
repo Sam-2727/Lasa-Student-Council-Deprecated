@@ -34,4 +34,4 @@ Cash = sure; Check by Friday, Jan 24 (payable to "geeta suggs").
 
 **Deadline: Monday, Jan 27, 2020**
 
-He will be so missed by everyone but the students, especially.
+He will be so missed by everyone.
