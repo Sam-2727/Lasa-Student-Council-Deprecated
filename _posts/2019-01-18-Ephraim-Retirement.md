@@ -22,10 +22,10 @@ If you don't know much about Mr. Ephriam, [this video says it all](https://drive
 ## Sharing Memories
 If you have a memory and/or message to share with this wonderful human being, please visit:
 
-<www.lasahighschool.org/ray> **before January 27th**.
+[www.lasahighschool.org/ray](www.lasahighschool.org/ray) **before January 27th**.
 
 ## Contributing Money for a Gift
-Geeta Suggs, a parent, is collecting money for a gift. This will be from students, parents, faculty, anyone that wants to donate to it. All money will come to me, as students and faculty can't collect due to AISD rules.
+Geeta Suggs, a parent, is collecting money for a gift. This will be from students, parents, faculty, anyone that wants to donate to it. All money will come to her, as students and faculty can't collect due to AISD rules.
 
 1. Venmo: craftyengineer
 2. Paypal<paypal.me/craftyengineer>
