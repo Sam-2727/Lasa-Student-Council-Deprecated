@@ -2,16 +2,17 @@
 layout: single
 toc: false
 toc_label: "Table of Contents"
-title: "Junior Socials"
+title: "Mr. Ephriam is retiring!!!"
 sidebar:
   title: "Information"
   nav: docs
 header:
   overlay_image: /assets/images/background_img.png
   caption: " "
-excerpt: "Dates and Information"
+excerpt: "How you can help"
 categories:
-  - 2021
+  - Ephriam
+  - School-wide
 ---
 
 Y'all Mr. Ephriam is retiring on January 31, 2020. This is coming up soon, so if you want to help out, please complete the steps below soon!
