@@ -1,3 +1,4 @@
+Note to self: DON'T INLCUDE SLASH AT END OF WEBSITES
 ## LASA Student Council Website
 Created in December, 2019. If you want to contribute to the website just tell me (Sam Christian) and I'll add you as a contributor. Or, you could be antisocial and just go ahead and create a pull request or raise an issue.
 
