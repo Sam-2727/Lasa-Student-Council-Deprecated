@@ -12,7 +12,6 @@ header:
 excerpt: "How you can help"
 categories:
   - Fundraiser
-  - School-wide
 ---
 
 Participating in the student council fundraiser not only is of immense help to us (and for which we are grateful for), but you will also get prizes from participating in it, depending on the amount of items you sell!
