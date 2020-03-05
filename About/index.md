@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "About us"
+redirect_from:
+  - /test/
 toc: true
 sidebar:
   title: "Information"
