@@ -6,7 +6,7 @@ Created in December, 2019. If you want to contribute to the website just tell me
 
 Banner photo by Griffin Davis, from lasa2019.com
 
-The MIT License (MIT) (for this repository AND minimal mistkaes, which this is based off of)
+The MIT License (MIT) (for this repository AND minimal mistakes, which this is based off of)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
