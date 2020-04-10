@@ -2,7 +2,7 @@
 layout: single
 toc: false
 toc_label: "Table of Contents"
-title: "Junior Feedback
+title: "Junior Feedback"
 sidebar:
   title: "Information"
   nav: docs
