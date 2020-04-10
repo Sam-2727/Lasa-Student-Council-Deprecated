@@ -9,7 +9,7 @@ sidebar:
 header:
   overlay_image: /assets/images/background_img.png
   caption: " "
-excerpt: "Your feedback is much appreciated"
+excerpt: "Your feedback is much appreciated."
 categories:
   - 2021
 ---
