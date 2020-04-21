@@ -10,8 +10,6 @@ header:
   overlay_image: /assets/images/background_img.png
   caption: " "
 excerpt: "Your feedback is much appreciated."
-categories:
-  - 2021
 ---
 
 Hi juniors! Student Council is re-evaluating our role in a shortened online school. Our primary purpose is to serve the needs of students, so we're asking for your suggestions as we fulfill that purpose. The questions are super vague on purpose. We want all of your thoughts, complaints, questions, rants, really anything you can type. All responses are of course anonymous.
