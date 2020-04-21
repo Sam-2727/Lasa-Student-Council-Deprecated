@@ -10,7 +10,10 @@ header:
   overlay_image: /assets/images/background_img.png
   caption: " "
 excerpt: "What you need to know"
+categories:
+  - 2021
 ---
+
 Hello Juniors and Seniors!
 
 After some deliberation, the student councils of both LBJ and LASA have decided to move forward with a **virtual prom**. The event will consist of a Zoom meetup, where attendees will be separated out into a music breakout room of their choice, all with a DJ and different music genres. 
