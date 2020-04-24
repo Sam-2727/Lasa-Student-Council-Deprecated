@@ -18,6 +18,9 @@ Virtual Prom is May 2 from 9-11 PM on Zoom. KAZI 88.7 DJ-RJ will also be playing
 Make sure to follow your class Instagram page and @lbjlasaprom2020 for updates on Prom! Tell your friends!
 Spirit Week is April 26 - May 1. DM your submissions for Spirit Week to the LBJ/LASA Virtual Prom Instagram page at @lbjlasaprom2020. The top submissions of every challenge will be posted, and the best one for each challenge will be voted on May 2 at prom! (if there are prizes, add that here)
 
+Here's a flyer:
+<iframe src="https://drive.google.com/file/d/14KwVAy4-o9Gv_8thSG8HJbMd8subBbOk/preview" width="640" height="480"></iframe>
+
 ## Challenges
 ### Monday - Dance Challenge
 Showcase your dance moves to a catchy song in a video.
