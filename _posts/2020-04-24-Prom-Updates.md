@@ -11,6 +11,8 @@ header:
   caption: " "
 excerpt: "This page will be continuously updated with the latest information about Online Prom"
 ---
+# Latest Updates and Clarification
+- There are no updates at this time
 
 Virtual Prom is May 2 from 9-11 PM on Zoom. KAZI 88.7 DJ-RJ will also be playing music on @lbjlasaprom2020 Instagram live. 
 Make sure to follow your class Instagram page and @lbjlasaprom2020 for updates on Prom! Tell your friends!
