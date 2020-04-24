@@ -17,20 +17,20 @@ Make sure to follow your class Instagram page and @lbjlasaprom2020 for updates o
 Spirit Week is April 26 - May 1. DM your submissions for Spirit Week to the LBJ/LASA Virtual Prom Instagram page at @lbjlasaprom2020. The top submissions of every challenge will be posted, and the best one for each challenge will be voted on May 2 at prom! (if there are prizes, add that here)
 
 ## Challenges
-Monday - Dance Challenge
+### Monday - Dance Challenge
 Showcase your dance moves to a catchy song in a video.
 
-Tuesday- Pet Prom
+### Tuesday- Pet Prom
 Dress up your pets (or stuffed animals) in the best outfit or costume. 
 
-Wednesday- Most School Spirit
+### Wednesday- Most School Spirit
 Dress up in your school colors or do a school chant and showcase your LBJ/LASA pride. 
 
-Thursday- Spring Halloween
+### Thursday- Spring Halloween
 Dress up in a cool costume or showcase your prom attire to celebrate Spring Halloween.
 
-Friday- Best Prom Backdrop
+### Friday- Best Prom Backdrop
 Create your own prom backdrop. Make it creative and show us what your prom will be like. 
 
-Saturday- Prom Royalty
+### Saturday- Prom Royalty
 Vote for Prom Royalty during Prom! Voting for Spirit Week challenges will also happen at Prom.
