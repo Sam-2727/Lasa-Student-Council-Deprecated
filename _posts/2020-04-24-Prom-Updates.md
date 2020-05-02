@@ -27,7 +27,7 @@ There will be music being played at prom by some great student & staff DJs. Addi
 
 **Q: How do I navigate Zoom virtual prom?**
 
-In order to be placed in a specific breakout room, head to the main room and send a chat to the host, Mr. Dellas, and request the room that you would like to be placed in. If you want to change the room that you are in, simply head back to the main room and send another chat to the host.
+In order to be placed in a specific breakout room, head to the main room and send a chat to the host to request the room that you would like to be placed in. If you want to change the room that you are in, simply head back to the main room and send another chat to the host.
 
 **Q: What are the different breakout rooms?**
 
