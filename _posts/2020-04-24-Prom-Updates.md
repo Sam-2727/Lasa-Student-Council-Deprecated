@@ -14,6 +14,7 @@ excerpt: "This page will be continuously updated with the latest information abo
 # Latest Updates and Clarification
 - Vote for Prom Royalty here! <http://tinyurl.com/promroyalty2020> (May 2nd 9 am)
 - We've added a Q&A for your convenience, located right here! (May 2nd 12 pm)
+
 ## Virtual Prom: How-to Guide (Updated Saturday Morning)
 
 ### **Q: What is virtual prom?**
