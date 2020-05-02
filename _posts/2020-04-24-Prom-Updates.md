@@ -27,7 +27,7 @@ There will be music being played at prom by some great student & staff DJs. Addi
 
 **Q: How do I navigate Zoom virtual prom?**
 
-In order to be placed in a specific breakout room, head to the main room and send a chat to the host, Mr.Dellas, and request the room that you would like to be placed in. If you want to change the room that you are in, simply head back to the main room and send another chat to the host.
+In order to be placed in a specific breakout room, head to the main room and send a chat to the host, Mr. Dellas, and request the room that you would like to be placed in. If you want to change the room that you are in, simply head back to the main room and send another chat to the host.
 
 **Q: What are the different breakout rooms?**
 
@@ -48,6 +48,7 @@ There will be random contests throughout the night, and the rules for those cont
 **Q: When do spirit week winners get announced?**
 
 10:15 pm.
+
 **Q: When are royalty announcements?**
 
 10:30 pm. All nominees are asked to arrive at the zoom call a several minutes before, to ensure their attendance to the event (around 10:15pm).
