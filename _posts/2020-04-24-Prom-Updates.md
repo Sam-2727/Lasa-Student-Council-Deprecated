@@ -49,7 +49,7 @@ There will be random contests throughout the night, and the rules for those cont
 
 **Q: When do spirit week winners get announced?**
 
-10:15 pm.
+9:45 pm.
 
 **Q: When are royalty announcements?**
 
