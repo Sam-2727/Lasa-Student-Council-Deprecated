@@ -12,7 +12,7 @@ excerpt: "Here you will find all your student council related information"
 ---
 
 # Elections
-[Find out how you can run for student council](https://lasastuco.org/Run/)
+[Check out the latest updates on the Student Council elections](https://lasastuco.org/Run/)
 
 ## Purpose
 
