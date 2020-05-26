@@ -14,6 +14,6 @@ excerpt: "What we're all about!"
 
 Elections for student council officers are held at the end of every school year.
 
-[https://lasastuco.org/Current-Officers/Previous-Officers/](Previous years can be seen here)
+[Previous years can be seen here](https://lasastuco.org/Current-Officers/Previous-Officers/)
 
 # Coming Soon!
