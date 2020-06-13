@@ -21,13 +21,6 @@ Elections for student council officers are held at the end of every school year.
 ## Vice-President: Isabelle Saquing
 ## Treasurer: Lois Lee
 ## Student Representative: Annie Franklin
-<figure class="fourth">
-	<img src="/assets/images/samChristian.jpg">
-	<img src="/assets/images/isabelle.jpg">
-	<img src="/assets/images/Lois.jpg">
-  <img src="/assets/images/annie.jpg"
-	<figcaption>Caption describing these three images.</figcaption>
-</figure>
 
 # Juniors
 ## President: Sally Edwards
