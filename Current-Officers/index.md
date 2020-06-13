@@ -17,33 +17,28 @@ Elections for student council officers are held at the end of every school year.
 [Previous years can be seen here](https://lasastuco.org/Current-Officers/Previous-Officers/)
 
 # Seniors
-## President
-Sam Christian
-## Vice-President
-Isabelle Saquing
-## Treasurer
-Lois Lee
-## Student Representative
-Annie Franklin
+## President: Sam Christian
+## Vice-President: Isabelle Saquing
+## Treasurer: Lois Lee
+## Student Representative: Annie Franklin
+<figure class="fourth">
+	<img src="/assets/images/samChristian.jpg">
+	<img src="/assets/images/isabelle.jpg">
+	<img src="/assets/images/Lois.jpg">
+  <img src="/assets/images/annie.jpg"
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
 
 # Juniors
-## President
-Sally Edwards
-## Vice-President
-Erik Rodriguez
-## Treaurer
-Darlene Lai
-## Student Representative
-Ethan Liu
+## President: Sally Edwards
+## Vice-President: Erik Rodriguez
+## Treaurer: Darlene Lai
+## Student Representative: Ethan Liu
 
 
 # Juniors
-## President
-Emma Chu
-## Vice-President
-Keerthanyaa Arun
-## Treaurer
-Nina Prasad
-## Student Representative
-Julia Ding
+## President: Emma Chu
+## Vice-President: Keerthanyaa Arun
+## Treaurer: Nina Prasad
+## Student Representative: Julia Ding
 
