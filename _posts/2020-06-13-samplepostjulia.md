@@ -2,7 +2,7 @@
 layout: single
 toc: false
 toc_label: "samplepostjulia"
-title: "Mr. Ephriam is retiring!!!"
+title: "testing!"
 sidebar:
   title: "test"
   nav: docs
@@ -14,3 +14,4 @@ categories:
   - test
 ---
 i hope i didn't destroy anything
+ titl
